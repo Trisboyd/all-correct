@@ -1,0 +1,10 @@
+@import url(./_blue/section-title_blue.css);
+
+.section-title {
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 63px;
+    letter-spacing: -0.01em;
+    color: white;
+    margin: 0;
+}
