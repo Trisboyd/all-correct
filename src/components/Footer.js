@@ -1,5 +1,9 @@
 import React from 'react';
 import Navigation from './Navigation';
+import facebook from "../images/facebook.png";
+import linkedIn from '../images/linkedin.png';
+import medium from '../images/medium.png';
+import rss from '../images/Vector.png';
 
 export default function Footer() {
 
@@ -26,22 +30,25 @@ export default function Footer() {
                     <li className='footer__item'>
                         <a className='footer__link' href=''>
                             <img className='footer__image'
-                            src="./images/facebook.png"
+                            src={facebook}
                             alt='social'></img>Facebook</a>
                     </li>
                     <li className='footer__item'>
                         <a className='footer__link' href=''>
                             <img className='footer__image' 
+                            src={medium}
                             alt='social-icon'></img>Medium</a>
                     </li>
                     <li className='footer__item'>
                         <a className='footer__link' href=''>
-                            <img className='footer__image' 
+                            <img className='footer__image'
+                            src={linkedIn} 
                             alt='social-icon'></img>LinkedIn</a>
                     </li>
                     <li className='footer__item'>
                         <a className='footer__link' href=''>
-                            <img className='footer__image' 
+                            <img className='footer__image'
+                            src={rss} 
                             alt='social-icon'></img> 
                             RSS</a>
                     </li>
