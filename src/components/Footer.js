@@ -46,7 +46,7 @@ export default function Footer() {
                             alt='linkedin'></img>LinkedIn</a>
                     </li>
                     <li className='footer__item'>
-                        <a className='footer__link' href=''>
+                        <a className='footer__link' href='http://feeds.feedburner.com/allcorrectgamescominsights'>
                             <img className='footer__image footer__image_white'
                             src={rss} 
                             alt='rss'></img>RSS</a>
