@@ -1,0 +1,66 @@
+.hero {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+
+.hero__image {
+    width: 60%;
+    margin-left: 50px;
+}
+
+.hero__info-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid red;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.hero__title {
+    max-width: 400px;
+    width: 60%;
+    color: white;
+    font-size: 30px;
+}
+
+.hero__title-span {
+    color: cornflowerblue;
+}
+
+.hero__menu {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+
+.hero__carousel-buttons {
+    margin: 0;
+    max-width: 350px;
+    border: 1px solid red;
+    margin-right: 100px;
+}
+
+.hero__carousel-button {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.hero__carousel-button:last-child {
+    margin-right: 0;
+}
+
+.hero__projects-button {
+    margin: 0;
+    max-width: 250px;
+    color: cornflowerblue;
+    border: 1px solid red;
+}
