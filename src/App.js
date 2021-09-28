@@ -1,11 +1,12 @@
 import './App.css';
 import React from 'react';
-import Footer from './components/Footer';
+
+import Reviews from './components/Reviews';
 
 function App() {
 
   return (
-   <Footer />
+    <Reviews />
   );
 }
 
