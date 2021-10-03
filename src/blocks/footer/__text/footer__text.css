@@ -1,4 +1,5 @@
 @import url(./_website/footer__text_website.css);
+@import url(./_copyright/footer__text_copyright.css);
 
 .footer__text {
     font-style: normal;
