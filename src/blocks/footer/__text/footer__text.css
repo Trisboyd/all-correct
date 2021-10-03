@@ -1,0 +1,11 @@
+@import url(./_website/footer__text_website.css);
+@import url(./_copyright/footer__text_copyright.css);
+
+.footer__text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.25;
+    letter-spacing: -0.01em;  
+    color: #FFFFFF;
+}
