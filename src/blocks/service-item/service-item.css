@@ -1,0 +1,11 @@
+@import url(./__top/service-item__top.css);
+
+.service-item {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0 40px;
+    box-sizing: border-box;
+}

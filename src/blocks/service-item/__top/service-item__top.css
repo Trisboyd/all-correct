@@ -1,0 +1,19 @@
+@import url(./__arrow/service-item__top__arrow.css);
+@import url(./__title/service-item__top__title.css);
+
+.service-item__top {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    box-sizing: border-box;
+    border-bottom: #fff 1px solid;
+}
+
+
+
+.service-item__top:hover {
+    cursor: pointer;
+}

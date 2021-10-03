@@ -1,0 +1,15 @@
+@import url(./__title/services__title.css);
+@import url(./__wrapper/services__wrapper.css);
+@import url(./__service/services__service.css);
+@import url(./__top-wrapper/services__top-wrapper.css);
+@import url(./__bottom-wrapper/services__bottom-wrapper.css);
+@import url(./__image-card/services__image-card.css);
+@import url(./__link/services__link.css);
+
+
+.services {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    padding: 250px 0;
+}

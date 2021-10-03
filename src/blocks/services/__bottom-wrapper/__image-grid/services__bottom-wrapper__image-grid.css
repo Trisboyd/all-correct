@@ -1,0 +1,7 @@
+.services__bottom-wrapper__image-grid {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 30px 0;
+}
