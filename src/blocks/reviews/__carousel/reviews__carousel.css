@@ -1,0 +1,24 @@
+.reviews__carousel {
+  display: grid;
+  overflow-x: auto;
+  grid-auto-flow: column;
+  grid-template-rows: 1fr;
+  column-gap: 20px;
+  padding-left: 44px;
+}
+
+.reviews__carousel::-webkit-scrollbar {
+  display: block;
+  margin: 0 44px;
+  height: 5px;
+}
+.reviews__carousel::-webkit-scrollbar-track {
+  border-radius: 2px;
+  margin: 44px;
+
+  background: #c4c4c4;
+}
+.reviews__carousel::-webkit-scrollbar-thumb {
+  background: #4A8EFF;
+  border-radius: 2px;
+}

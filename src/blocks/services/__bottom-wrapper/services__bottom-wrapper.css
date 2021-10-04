@@ -1,0 +1,12 @@
+@import url(./__text/services__bottom-wrapper__text.css);
+@import url(./__image-grid/services__bottom-wrapper__image-grid.css);
+
+.services__bottom-wrapper {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    box-sizing: border-box;
+    border-bottom: #fff 1px solid;
+}

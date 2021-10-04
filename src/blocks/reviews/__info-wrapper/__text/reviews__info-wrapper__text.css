@@ -1,0 +1,11 @@
+.reviews__info-wrapper__text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    margin: 0;
+    align-self: center;
+}

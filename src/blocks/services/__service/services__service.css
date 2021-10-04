@@ -1,0 +1,9 @@
+.services__service {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0 40px;
+    box-sizing: border-box;
+}

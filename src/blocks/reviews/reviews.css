@@ -1,0 +1,13 @@
+@import url(./__carousel/reviews__carousel.css);
+@import url(./__title/reviews__title.css);
+@import url(./__card/reviews__card.css);
+@import url(./__card-text/reviews__card-text.css);
+@import url(./__info-wrapper/reviews__info-wrapper.css);
+
+
+.reviews {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    padding: 250px 0;
+}

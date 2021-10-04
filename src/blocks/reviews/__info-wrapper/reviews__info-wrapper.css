@@ -1,0 +1,11 @@
+@import url(./__text/reviews__info-wrapper__text.css);
+@import url(./__logo/reviews__info-wrapper__logo.css);
+
+.reviews__info-wrapper {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    column-gap: 20px;
+}

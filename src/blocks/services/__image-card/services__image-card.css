@@ -1,0 +1,12 @@
+@import url(./__image/services__image-card__image.css);
+@import url(./__text/services__image-card__text.css);
+
+
+.services__image-card.css {
+    width: 325px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}

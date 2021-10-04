@@ -1,0 +1,18 @@
+@import url(./__arrow/services__top-wrapper__arrow.css);
+@import url(./__title/services__top-wrapper__title.css);
+
+.services__top-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    box-sizing: border-box;
+    border-bottom: #fff 1px solid;
+}
+
+
+
+.services__top-wrapper:hover {
+    cursor: pointer;
+}
