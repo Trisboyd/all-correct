@@ -1,0 +1,13 @@
+@import url(./__info/footer__info.css);
+@import url(./__text/footer__text.css);
+@import url(./__links/footer__links.css);
+@import url(./__link/footer__link.css);
+@import url(./__item/footer__item.css);
+@import url(./__image/footer__image.css);
+
+.footer {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+}
